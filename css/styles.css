@@ -21,10 +21,6 @@ h3{
   color: #00B4D8;
   font-family:'Montesrrat',sans-serif;
 }
-
-
-
-
 .top-container{
   background-color: #DFF6FF;
   position: relative;
@@ -32,12 +28,10 @@ h3{
 }
 .middle-container{
   margin: 100px 0;
-
 }
 .bottom-container{
   background-color:  #00B4D8;
   padding: 50px 0 20px;
-
 }
 a{
   color: #CAF0F8;
@@ -51,7 +45,6 @@ a:hover{
 .bottom-cloud{
   position: absolute;
   left: 300px;
-
 }
 .copyright{
   color: #CAF0F8;
